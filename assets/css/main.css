@@ -3653,7 +3653,7 @@ input, select, textarea {
 		#banner p {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
-			width: 60em;
+			width: 80%;
 			margin: 0 auto;
 		}
 
@@ -4021,3 +4021,14 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.container {
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    iframe {
+        aspect-ratio: 16 / 9;
+        width: 100% !important;
+    }
