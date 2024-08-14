@@ -4071,87 +4071,8 @@ input, select, textarea {
 			position: relative;
 			text-align: left;
 			width: 20%;
+			background-color: rgba(0, 0, 0, 0.315);
 		}
-
-			.partners li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
-			}
-
-			.partners li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
-			}
-
-			.partners li:nth-child(3) {
-				background-color: rgba(0, 0, 0, 0.105);
-			}
-
-			.partners li:nth-child(4) {
-				background-color: rgba(0, 0, 0, 0.14);
-			}
-
-			.partners li:nth-child(5) {
-				background-color: rgba(0, 0, 0, 0.175);
-			}
-
-			.partners li:nth-child(6) {
-				background-color: rgba(0, 0, 0, 0.21);
-			}
-
-			.partners li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
-			}
-
-			.partners li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
-			}
-
-			.partners li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
-			}
-
-			.partners li:nth-child(10) {
-				background-color: rgba(0, 0, 0, 0.35);
-			}
-
-			.partners li:nth-child(11) {
-				background-color: rgba(0, 0, 0, 0.035);
-			}
-
-			.partners li:nth-child(12) {
-				background-color: rgba(0, 0, 0, 0.07);
-			}
-
-			.partners li:nth-child(13) {
-				background-color: rgba(0, 0, 0, 0.105);
-			}
-
-			.partners li:nth-child(14) {
-				background-color: rgba(0, 0, 0, 0.14);
-			}
-
-			.partners li:nth-child(15) {
-				background-color: rgba(0, 0, 0, 0.175);
-			}
-
-			.partners li:nth-child(16) {
-				background-color: rgba(0, 0, 0, 0.21);
-			}
-
-			.partners li:nth-child(17) {
-				background-color: rgba(0, 0, 0, 0.245);
-			}
-
-			.partners li:nth-child(18) {
-				background-color: rgba(0, 0, 0, 0.28);
-			}
-
-			.partners li:nth-child(19) {
-				background-color: rgba(0, 0, 0, 0.315);
-			}
-
-			.partners li:nth-child(20) {
-				background-color: rgba(0, 0, 0, 0.35);
-			}
 
 			.partners li:before {
 				display: block;
