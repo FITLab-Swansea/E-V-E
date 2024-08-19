@@ -3382,7 +3382,7 @@ input, select, textarea {
 */
 /*		background: #21b2a6;*/
 		color: #ffffff;
-		height: 100%;
+/*		height: 3em;*/
 		max-width: 80%;
 		overflow-y: auto;
 /*		padding: 3em 2em;*/
@@ -3624,6 +3624,10 @@ input, select, textarea {
 */
 
 							@media screen and (max-width: 736px) {
+								#header.alt {
+									background: transparent;
+								}
+								
 								#header nav {
 									display: block;
 									height: inherit;
@@ -3693,9 +3697,11 @@ input, select, textarea {
 						margin-left: 0;
 					}
 
+/*
 		#header.alt {
 			background: transparent;
 		}
+*/
 
 			#header.alt h1 {
 				pointer-events: none;
