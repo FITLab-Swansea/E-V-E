@@ -3803,7 +3803,7 @@ input, select, textarea {
 			bottom: 0;
 			color: inherit;
 			font-size: 0.8em;
-			height: 6em;
+			height: 8.5em;
 			left: 50%;
 			letter-spacing: 0.225em;
 			margin-left: -8.5em;
@@ -3822,7 +3822,7 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				bottom: 2em;
+				bottom: 4em;
 				content: '';
 				display: block;
 				height: 1.5em;
