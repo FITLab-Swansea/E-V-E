@@ -3803,7 +3803,7 @@ input, select, textarea {
 			bottom: 0;
 			color: inherit;
 			font-size: 0.8em;
-			height: 8.5em;
+			height: 6em;
 			left: 50%;
 			letter-spacing: 0.225em;
 			margin-left: -8.5em;
@@ -3822,7 +3822,7 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				bottom: 4em;
+				bottom: 2em;
 				content: '';
 				display: block;
 				height: 1.5em;
@@ -3853,12 +3853,12 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 936px) {
 
 			#banner {
 				padding: 7em 3em 5em 3em ;
 				height: auto;
-				min-height: 0;
+				min-height: 100vh;
 			}
 
 				#banner h2 {
@@ -3870,6 +3870,9 @@ input, select, textarea {
 				}
 
 				#banner .more {
+					display: none;
+				}
+				#banner .more:after {
 					display: none;
 				}
 
