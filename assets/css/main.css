@@ -3776,8 +3776,8 @@ input, select, textarea {
 			}
 
 		#banner p {
-			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			letter-spacing: 0.15em;
+/*			text-transform: uppercase;*/
 			width: 90%;
 			margin: 0 auto;
 		}
