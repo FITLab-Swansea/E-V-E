@@ -2133,6 +2133,20 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		/* Centred image option */
+		.image.center {
+			display: block;
+			margin: 0 auto 2em auto;   /* centre horizontally */
+			float: none;               /* cancel left or right float behaviour */
+			max-width: 40%;            /* adjust as needed */
+			top: 0;                    /* remove the slight vertical shift */
+		}
+
+		.image.center img {
+			width: 100%;
+			display: block;
+		}
+
 /* List */
 
 	ol {
@@ -4244,3 +4258,14 @@ input, select, textarea {
 					width: 50%;
 				}
 			}
+
+
+
+
+
+
+
+
+
+
+
